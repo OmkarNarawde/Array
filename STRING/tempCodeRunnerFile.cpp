@@ -1,0 +1,1 @@
+cout<<str.push_back('n');
